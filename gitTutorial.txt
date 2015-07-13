@@ -1,0 +1,7 @@
+https://github.com/yui/yui3/wiki/Set-Up-Your-Git-Environment
+
+https://help.github.com/articles/set-up-git/
+
+https://www.atlassian.com/git/tutorials/
+
+https://try.github.io/levels/1/challenges/1
