@@ -1,0 +1,6 @@
+Básico (13h): http://www.codecademy.com/es/courses/python-beginner-es-NWE2u/0/1?curriculum_id=50fc7aab5fab3aa9c2002444
+
+Intermedio: http://inventwithpython.com/chapters/
+
+Avanzado 1: https://geekytheory.com/telegram-programando-un-bot-en-python/
+Avanzado 2: http://code.tutsplus.com/tutorials/how-to-build-a-python-bot-that-can-play-web-games--active-11117
